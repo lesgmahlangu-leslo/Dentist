@@ -1,0 +1,6 @@
+{
+  "name": "Dentist at the Square",
+  "description": "A warm, welcoming, and interactive website for a premium dental practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
